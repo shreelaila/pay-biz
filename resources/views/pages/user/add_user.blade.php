@@ -9,7 +9,6 @@
                             <h5>
                                 Mobile Recharge or Bill Payment
                             </h5>
-
                             <form action="javascript:void(0)" class="pb__40">
                                 <div class="row g-4">
                                     <div class="col-lg-6">
