@@ -14,7 +14,7 @@
              </div>
              <div class="menu__right__components d-flex align-items-center">
                 <div class="sigup__grp d-lg-none">
-                   <a href="signin.html" class="cmn__btn outline__btn">
+                   <a href="signin.html" class="cmn__btn outline__btn"></a>
                       <span>
                          Signin
                       </span>
